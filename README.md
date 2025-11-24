@@ -103,4 +103,4 @@ Privacy and Security: Large models can inadvertently leak sensitive information 
 Transparency and Explainability: It can be challenging to understand how LLMs make decisions, making it difficult to ensure fairness and accountability. 
 
 # Result
-Thus the Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) was Successfully Developed.
+Thus the Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) was Successfully Developed. 
